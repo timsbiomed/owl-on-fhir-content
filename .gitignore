@@ -4,7 +4,7 @@
 prettify.py
 
 # Obographs
-*.json
+input/*.json
 
 # OAK
 .template.db
