@@ -2,6 +2,10 @@ input/mondo.owl filter=lfs diff=lfs merge=lfs -text
 input/comploinc.owl filter=lfs diff=lfs merge=lfs -text
 input/go-nucleus.owl filter=lfs diff=lfs merge=lfs -text
 input/hpo.owl filter=lfs diff=lfs merge=lfs -text
-output/CodeSystem-go-nucleus.json filter=lfs diff=lfs merge=lfs -text
 input/RXNORM.ttl filter=lfs diff=lfs merge=lfs -text
 input/RXNORM-fixed.ttl filter=lfs diff=lfs merge=lfs -text
+output/CodeSystem-go-nucleus.json filter=lfs diff=lfs merge=lfs -text
+output/CodeSystem-CompLOINC.json filter=lfs diff=lfs merge=lfs -text
+output/CodeSystem-HPO.json filter=lfs diff=lfs merge=lfs -text
+output/CodeSystem-Mondo.json filter=lfs diff=lfs merge=lfs -text
+output/CodeSystem-RXNORM.json filter=lfs diff=lfs merge=lfs -text
