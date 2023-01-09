@@ -39,7 +39,3 @@ Latest releases can be found at the following locations.
 - Mondo: https://github.com/monarch-initiative/mondo/releases/latest/download/mondo.owl
 - SO: https://data.bioontology.org/ontologies/SO/submissions/304/download?apikey=8b5b7825-538d-40e0-9e9e-5ab9274a9aeb
 - go-nucleus: 
-
-## Notes
-- RxNorm's ttl file, itself a derivation of the SoT RRF files, needs modified to run here by this script:
-  - https://raw.githubusercontent.com/INCATools/semantic-sql/main/utils/ncbo2owl.pl
